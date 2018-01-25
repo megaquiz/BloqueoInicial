@@ -1,0 +1,11 @@
+x PARA POP UP ACTIVADO: "";
+x PARA POP UP NO REPETIBLE (-diario-): "diario";
+->-0- PARA TODOS VERSION: ">"0";
+TITULO: "HEY!";
+CUERPO: "Qué tal?";
+x PARA ACEPTABLE OK: "FREE HINTS!";
+x PARA CERRABLE: "";
+-link- PARA LINK Y NO CERRABLE EN BOTON OK: "";
+-Regalar5Pistas- Funcion a ejecutar: "Regalar5Pistas";
+-string- PARA NO REPETIR SEGUN PLAYER PREFS: "";
+-1000- tiempo entre anuncios, por defecto 450: "60000";
