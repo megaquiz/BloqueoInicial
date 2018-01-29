@@ -1,8 +1,9 @@
-x PARA POP UP ACTIVADO: "";
+x PARA POP UP ACTIVADO: "si";
 x PARA POP UP NO REPETIBLE (-diario-): "diario";
 ->-0- PARA TODOS VERSION: ">"0";
-TITULO: "HEY!";
-CUERPO: "Qué tal?";
+TITULO: "WELCOME!";
+CUERPO: "Hope you enjoy the game.
+Take some daily hints, you may need them!";
 x PARA ACEPTABLE OK: "FREE HINTS!";
 x PARA CERRABLE: "";
 -link- PARA LINK Y NO CERRABLE EN BOTON OK: "";
