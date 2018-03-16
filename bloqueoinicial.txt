@@ -1,13 +1,11 @@
 x PARA POP UP ACTIVADO: "si";
 x PARA POP UP NO REPETIBLE (-diario-): "diario";
-->-0- PARA TODOS VERSION: ">"0";
-TITULO: "THANK YOU!";
-CUERPO: "We reached 150 downloads!
-Thank you for sharing and rating our game. We are working to improve it for you.
-Meanwhile, take some hints as thanks!";
-x PARA ACEPTABLE OK: "FREE HINTS!";
-x PARA CERRABLE: "";
--link- PARA LINK Y NO CERRABLE EN BOTON OK: "";
--Regalar5Pistas- Funcion a ejecutar: "Regalar5Pistas";
+->-0- PARA TODOS VERSION: "<"1.2";
+TITULO: "UPDATE!";
+CUERPO: "Some issues has been corrected. Thank you so much to all the users that reviewed the game or emailed us the bugs they've found. You can enjoy a better version of the game. Update the game in Google Play.";
+x PARA ACEPTABLE OK: "UPDATE NOW!";
+x PARA CERRABLE: "x";
+-link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://play.google.com/store/apps/details?id=com.MegaQuiz.GameCharacters";
+-Regalar5Pistas- Funcion a ejecutar: "";Regalar5Pistas
 -string- PARA NO REPETIR SEGUN PLAYER PREFS: "";
 -1000- tiempo entre anuncios, por defecto 450: "60000";
