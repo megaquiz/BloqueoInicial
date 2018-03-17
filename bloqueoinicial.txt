@@ -2,10 +2,12 @@ x PARA POP UP ACTIVADO: "si";
 x PARA POP UP NO REPETIBLE (-diario-): "diario";
 ->-0- PARA TODOS VERSION: "<"1.2";
 TITULO: "UPDATE!";
-CUERPO: "Some issues has been corrected. Thank you so much to all the users that reviewed the game or emailed us the bugs they've found. You can enjoy a better version of the game. Update the game in Google Play.";
-x PARA ACEPTABLE OK: "UPDATE NOW!";
+CUERPO: "Some users alerted us in the last update we turned red the blue pants of Mugman. If you play Cuphead's level, remember to answer -Mugman-!
+We will solve it for the next update.
+Our sincerely apologies!";
+x PARA ACEPTABLE OK: "BUG ALERT!";
 x PARA CERRABLE: "x";
--link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://play.google.com/store/apps/details?id=com.MegaQuiz.GameCharacters";
+-link- PARA LINK Y NO CERRABLE EN BOTON OK: "";
 -Regalar5Pistas- Funcion a ejecutar: "";Regalar5Pistas
 -string- PARA NO REPETIR SEGUN PLAYER PREFS: "";
 -1000- tiempo entre anuncios, por defecto 450: "60000";
